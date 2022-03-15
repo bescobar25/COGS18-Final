@@ -1,0 +1,4 @@
+# If your project has any requirements not included in anaconda, include them here
+
+This project requires "string", "random", "BeautifulSoup" from "bs4", and "uropen" from "urllib".
+Im not sure if any are not included in anaconda so here is all that's used just incase
